@@ -29,6 +29,8 @@ gem 'jbuilder', '~> 2.5'
 
 #For jumpstartlabs Blogger tutorial
 gem "paperclip"
+#For iteration 5 of jumpstart tutorial
+gem 'sorcery'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
